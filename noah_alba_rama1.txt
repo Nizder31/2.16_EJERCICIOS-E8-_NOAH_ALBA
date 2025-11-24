@@ -1,2 +1,4 @@
 Linea archivo 1
 Linea añadida desde master
+Nueva línea desde la rama
+Otra línea de rama
